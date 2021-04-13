@@ -20,6 +20,14 @@ All of the HYF's have built their own React modules, take a look and find the on
 - [Copenhagen](https://github.com/HackYourFuture-CPH/React)
 - [London](https://syllabus.codeyourfuture.io/react/index/)
 
+### Online prep tutorials
+- [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+- [React JS in 3.5 hours](https://www.youtube.com/watch?v=ABQLwlE8MUA&t=214s)
+
+### Advanced courses:
+- [React the complete guide + Redux](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+- [How to deploy a fullstack Mern app](https://www.youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu)
+
 
 [TOP](#frontend-frameworks)
 
