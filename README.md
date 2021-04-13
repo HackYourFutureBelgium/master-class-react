@@ -27,7 +27,8 @@ All of the HYF's have built their own React modules, take a look and find the on
 ### Advanced courses:
 - [React the complete guide + Redux](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 - [How to deploy a fullstack Mern app](https://www.youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu)
-
+- [React + Typescript tutorial](https://www.youtube.com/watch?v=F2JCjVSZlG0)
+- [Quick read: Best practices React with Typescript](https://www.sitepoint.com/react-with-typescript-best-practices/)
 
 [TOP](#frontend-frameworks)
 
